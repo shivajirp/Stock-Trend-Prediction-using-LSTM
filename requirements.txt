@@ -1,4 +1,4 @@
-keras==2.13.1
+keras==2.0.0
 matplotlib==3.6.3
 numpy==1.24.1
 pandas==2.0.3
